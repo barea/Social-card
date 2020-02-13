@@ -37,8 +37,15 @@ code {
 .title{
 
 	text-align: center;
+	background-color: #f1f1f1;
+
 }
 .title i{
 	padding-right: 15px;
+}
+
+.c{
+	width: '600px';
+	 margin: 'auto'
 }
 		

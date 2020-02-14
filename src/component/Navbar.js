@@ -30,7 +30,7 @@ class Navbar extends React.Component{
 		 const footer = (
             <div>
                 <Button label="Save" icon="pi pi-check" onClick={this.onSave} />
-                <Button label="Cansle" icon="pi pi-times" onClick={this.onHide} className="p-button-secondary" />
+                <Button label="cancel" icon="pi pi-times" onClick={this.onHide} className="p-button-secondary" />
             </div>
         );
 		return(

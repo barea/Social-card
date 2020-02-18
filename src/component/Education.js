@@ -39,7 +39,7 @@ class Education extends React.Component{
              	      
             </Dialog>
 			<div onClick={this.onClick} >		      
-			<ScrollPanel style={{width: '100%', height: '200px'}}>
+			<ScrollPanel style={{width: '380px', height: '200px'}}>
 			<p  dangerouslySetInnerHTML={{ __html: this.state.edu}}/>
     		</ScrollPanel>	
     		</div>	

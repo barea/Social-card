@@ -59,6 +59,7 @@ class Navbar extends React.Component{
 					<li><strong><Link to="about">About</Link></strong></li>
 					<li><strong><Link to="education">Education</Link></strong></li>
 					<li><strong><Link to="skils">Skils</Link></strong></li>
+					<li><strong><Link to="experience">Experience</Link></strong></li>
 					<li><strong><Link to="Interests">Interests</Link></strong></li>
 					<li><strong><Link to="Contact">Contact</Link></strong></li>
 				</ul>

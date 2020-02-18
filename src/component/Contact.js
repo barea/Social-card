@@ -38,7 +38,7 @@ class Con extends React.Component{
 
 			<br/>
 
-			<div class ="row">
+			<div class ="row" width= "400px">
 			<Contact url={this.state.url2} />
 			<div>
 			<br/>

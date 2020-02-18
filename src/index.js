@@ -9,6 +9,7 @@ import Skils from "./component/Skils";
 import Interests from "./component/Interests";
 import Contact from "./component/Contact";
 import Education from "./component/Education";
+import Experience from "./component/Experience";
 
 ReactDOM.render((
 	<Router history = {browserHistory}>
@@ -16,6 +17,7 @@ ReactDOM.render((
 		<Route path="about" component={About} />
 		<Route path="education" component={Education} />
 		<Route path="skils" component={Skils} />
+		<Route path="experience" component={Experience} />
 		<Route path="interests" component={Interests} />
 		<Route path="contact" component={Contact} />
 		</Route>

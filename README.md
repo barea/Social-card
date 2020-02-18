@@ -5,5 +5,5 @@ react App for create personal social card, user can add:
 * Add info about his: education, skills, experiences, interests.
 * Enter contact info.
 ## Libraries and tools included:
-Primereact.
-React-social-icons
+* Primereact.
+* React-social-icons
